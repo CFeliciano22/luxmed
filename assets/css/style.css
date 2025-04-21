@@ -451,6 +451,9 @@ a:focus {
 .footer-bottom-links a:hover {
   color: var(--color-secondary);
 }
+b, strong {
+    font-weight: bold !important;
+}
 
 /* Mobile Devices (up to 576px) */
 @media screen and (max-width: 576px) {
